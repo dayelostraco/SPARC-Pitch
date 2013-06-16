@@ -1,0 +1,18 @@
+CREATE TABLE `PITCH` (
+  `id` varchar(128) NOT NULL,
+  `PRODUCT_NAME` varchar(128) NOT NULL,
+  `MISSION` varchar(2048) DEFAULT NULL,
+  `PITCH` varchar(2048) DEFAULT NULL,
+  `BENEFITS` varchar(2048) DEFAULT NULL,
+  `COST` varchar(2048) DEFAULT NULL,
+  `ACTION_STATEMENT` varchar(2048) DEFAULT NULL,
+  `STATS` varchar(2048) DEFAULT NULL,
+  `OBJECTIONS` varchar(2048) DEFAULT NULL,
+  `CREATED_BY` varchar(128) NOT NULL,
+  `CREATED_DT` datetime NOT NULL,
+  `LAST_MOD_DT` datetime NOT NULL,
+  `LOGO` blob,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `id_UNIQUE` (`id`),
+  UNIQUE KEY `pitchName_UNIQUE` (`PRODUCT_NAME`)
+)

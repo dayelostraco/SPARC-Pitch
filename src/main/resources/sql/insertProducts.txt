@@ -1,0 +1,30 @@
+INSERT INTO `SPARC_PITCH`.`PITCH`
+(`ID`,
+`PRODUCT_NAME`,
+`MISSION`,
+`PITCH`,
+`BENEFITS`,
+`COST`,
+`ACTION_STATEMENT`,
+`STATS`,
+`OBJECTIONS`,
+`CREATED_BY`,
+`CREATED_DT`,
+`LAST_MOD_DT`,
+`LOGO`)
+VALUES
+(
+'0ee2248f-9a1c-4e50-b87f-c946d67aa24c',
+'SPARCIN',
+'To be the best interview management system in the world.',
+'Interviews suck. We\'re changing that.<br/>We believe in better hires through better interviews.<br/>SPARCIN supports the whole interview experience-- Everything from coordinating interviews, asking the best questions, and feedback tools your company actually want to use.   SPARCIN improves the interview process and increases confidence in your hiring decisions.',
+'<ul><li>Better hires via better interviews</li><li>A better interviewing process.</li><li>It\'s now easier to interview people in different positions.  The interview builder supports finding the best questions in any category.</li> <li>Questions are sourced from experts in a continuously growing pool.</li><li>Recruiters know the next step for candidates.  Effective and easy feedback tools for interviewers.</li></ul>',
+'3 tiers of pricing:<br/><ul><li>FREE!  No really, you can use limited features of SPARCIN for free!</li><li>$50 / month: 25 private questions, track candidates and feedback, 15 active interviews, up to 40 users per month.</li><li>$200 / month: unlimited private questions, track candidates and feedback, unlimited active interviews, up to 1000 users per month</li></ul>',
+'<ul><li>Take back control of your interviewing process.</li><li>Get it for free at www.sparcin.com</li></ul>',
+'All companies have hiring concerns:<br/><ul><li>There is 41% less productivity from a bad hire.</li><li>Half of customers have complained about bad hires.</li><li>The cost of losing an employee in the first year is 3 times the salary.</li></ul>Over 150 categories containing thousands of questions<br/>Hundreds of interviews given using SPARCIN<br/>Create an interview in as little as a minute<br/>',
+'<b>We already have a place where company interview questions / templates are kept.</b><ul><li>SPARCIN keeps that list of questions up to date for you. That means new questions for the topics you are already interviewing for, as well as new topics you may need if you start hiring for a new position.</li><li>Grow your question base.  You can always quickly get to your questions, but it?s just as easy to see other questions on the same topic that the rest of the SPARCIN community think are valuable.</li><li>Mix it up - SPARCIN has quantity and quality of questions.  So you can ask different questions when a candidate comes in for multiple interviews. And SPARCIN tracks that for you.</li><li>Tracking interview questions along with how candidates answer those questions will give you insight into the questions you are asking.  For example, what questions stump everyone?  What questions does everyone answer correctly?</li></ul><b>How does SPARCIN make money?</b><ul><li>After using SPARCIN for free and learning how it benefits your company, you will want to upgrade to either Standard or Enterprise and take advantage of all SPARCIN has to offer.</li></ul><b>We already have an application tracking system</b><ul><li>Applicant tracking systems don?t actually support your interviewers.</li><li>SPARCIN has pre-built integrations with several applicant tracking systems.</li><li>SPARCIN has an API - use it to easily share information with your ATS.</li></ul><b>I am worried about EEOC compliance</b><ul><li>SPARCIN is significantly better than your current solution (whatever that is)</li><li>SPARCIN flags key words and phrases in interview questions for review.</li><li>All SPARCIN reviewers have completed our EEOC course.</li><li>Guidelines are provided for entering new questions and anyone can flag an interview question for review.</li></ul>',
+'Dayel Ostraco',
+CURDATE(),
+CURDATE(),
+null
+);

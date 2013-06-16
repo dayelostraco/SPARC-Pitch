@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">ID</Data></Cell>
+			<Cell><Data ss:Type="String">PRODUCT_NAME</Data></Cell>
+			<Cell><Data ss:Type="String">MISSION</Data></Cell>
+			<Cell><Data ss:Type="String">PITCH</Data></Cell>
+			<Cell><Data ss:Type="String">BENEFITS</Data></Cell>
+			<Cell><Data ss:Type="String">COST</Data></Cell>
+			<Cell><Data ss:Type="String">ACTION_STATEMENT</Data></Cell>
+			<Cell><Data ss:Type="String">STATS</Data></Cell>
+			<Cell><Data ss:Type="String">OBJECTIONS</Data></Cell>
+			<Cell><Data ss:Type="String">CREATED_BY</Data></Cell>
+			<Cell><Data ss:Type="String">CREATED_DT</Data></Cell>
+			<Cell><Data ss:Type="String">LAST_MOD_DT</Data></Cell>
+			<Cell><Data ss:Type="String">LOGO</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">11a223c8-0ddb-44ce-baf8-5dee9897ebcb</Data></Cell>
+			<Cell><Data ss:Type="String">Company Pitch</Data></Cell>
+			<Cell><Data ss:Type="String">Show me a software company whose products reflect the culture, talent, and personality of its staff and I will show you SPARC. SPARC is a software company creating...engagement! We create it around the office AND in the products that we bring to market. As part of SPARC’s “Get ‘em in and keep ‘em in” philosophy, SPARCIN, SPARCET, and SPARC’D allow companies to hire the right people and keep them performing at a high level through engagement. SPARCIN is an interview management tool using crowdsourcing to help every part of the interview process. Once in the door, SPARCET is used for peer-to-peer recognition and SPARC’D to continually engage employees over time. SPARC’s engagement culture is also prevalent in SPARC520, our green energy analysis and strategy platform. With physical inputs from both buildings and staff, SPARC520 uses real-time data from SPARCIQ, our robust analytics engine, to efficiently run facilities. We even have Knappsack, our free open-source Mobile Application Management (MAM) platform, featuring secure deployment and full life-cycle management of mobile apps. Many of these products came from SPARC Ventures, an internal program encouraging innovation, collaboration, and entreprenuership. When you have a team that is highly engaged, their vision, energy, talent can create amazing products - products that reflect the people that made them! </Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-15 14:03:21</Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-16 12:56:06</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">24405e50-f5a9-485e-af02-6d7fb102656a</Data></Cell>
+			<Cell><Data ss:Type="String">Commercial Custom Development Services</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-15 14:03:58</Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-15 14:03:58</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">48802a61-22ce-4d6f-9f43-00d8f3cc45d0</Data></Cell>
+			<Cell><Data ss:Type="String">SPARC&#39;D</Data></Cell>
+			<Cell><Data ss:Type="String">To fundamentally change the method by which companies measure, maintain and increase employee engagement.</Data></Cell>
+			<Cell><Data ss:Type="String">SPARC&#39;D is the first employee engagement platform designed to increase and maintain engagement at your company.  For the first time see who is engaged, disengaged, and plan accordingly to move the engagement needle company wide.</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ol&gt;&lt;li&gt; See where your company is on the engagement scale and move that needle.&lt;/li&gt;&lt;br&gt;&lt;li&gt; Define your unpublished org chart&lt;/li&gt;&lt;br/&gt;&lt;li&gt; Increase employee retention&lt;/li&gt;&lt;br&gt;&lt;li&gt; Energy, brand, strategy, innovation and more customers.&lt;/li&gt;&lt;/ol&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">$4.00/PEPM(per employee per month) To name a few of the aspects: People Meter, Know Your Peeps, SPARCET (enterprise version), Performance, Social, Stream, Feed, Corporate Culture, Engager, Net Engagement Score (NES), Requests, What’s Happening, Analytics, Reports, Dashboard, NES</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;Sign up now at www.sparcd.com.&lt;/li&gt;&lt;li&gt; Come visit SPARC for a tour and see what an engaged workforce looks like.&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">Over 74% of US workers are not engaged. Over $370 billion dollars lost per year due to actively disengaged employees. 75% of leaders have no engagement plan but realize that engagement greatly impacts business success.</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;How can software improve culture and or engagement...it can’t but it can help pave the way to an engaged workforce and improved culture&lt;/li&gt;&lt;li&gt;We are already a highly engaged workforce according to our annual engagement survey...why not check the pulse of your engagement daily, weekly or even every month.&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-15 11:59:27</Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-15 20:41:15</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">4dd22ae8-c0b2-4d96-8cb6-38f7fd050766</Data></Cell>
+			<Cell><Data ss:Type="String">SPARCIN</Data></Cell>
+			<Cell><Data ss:Type="String">To be the best interview management system in the world.</Data></Cell>
+			<Cell><Data ss:Type="String">Interviews suck. We&#39;re changing that.&lt;br/&gt;We believe in better hires through better interviews.&lt;br/&gt;SPARCIN supports the whole interview experience-- Everything from coordinating interviews, asking the best questions, and feedback tools your company actually want to use.   SPARCIN improves the interview process and increases confidence in your hiring decisions.</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;Better hires via better interviews&lt;/li&gt;&lt;li&gt;A better interviewing process.&lt;/li&gt;&lt;li&gt;It&#39;s now easier to interview people in different positions.  The interview builder supports finding the best questions in any category.&lt;/li&gt; &lt;li&gt;Questions are sourced from experts in a continuously growing pool.&lt;/li&gt;&lt;li&gt;Recruiters know the next step for candidates.  Effective and easy feedback tools for interviewers.&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">3 tiers of pricing:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;FREE!  No really, you can use limited features of SPARCIN for free!&lt;/li&gt;&lt;li&gt;$50 / month: 25 private questions, track candidates and feedback, 15 active interviews, up to 40 users per month.&lt;/li&gt;&lt;li&gt;$200 / month: unlimited private questions, track candidates and feedback, unlimited active interviews, up to 1000 users per month&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;Take back control of your interviewing process.&lt;/li&gt;&lt;li&gt;Get it for free at www.sparcin.com&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">All companies have hiring concerns:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;There is 41% less productivity from a bad hire.&lt;/li&gt;&lt;li&gt;Half of customers have complained about bad hires.&lt;/li&gt;&lt;li&gt;The cost of losing an employee in the first year is 3 times the salary.&lt;/li&gt;&lt;/ul&gt;Over 150 categories containing thousands of questions&lt;br/&gt;Hundreds of interviews given using SPARCIN&lt;br/&gt;Create an interview in as little as a minute&lt;br/&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;b&gt;We already have a place where company interview questions / templates are kept.&lt;/b&gt;&lt;ul&gt;&lt;li&gt;SPARCIN keeps that list of questions up to date for you. That means new questions for the topics you are already interviewing for, as well as new topics you may need if you start hiring for a new position.&lt;/li&gt;&lt;li&gt;Grow your question base.  You can always quickly get to your questions, but it?s just as easy to see other questions on the same topic that the rest of the SPARCIN community think are valuable.&lt;/li&gt;&lt;li&gt;Mix it up - SPARCIN has quantity and quality of questions.  So you can ask different questions when a candidate comes in for multiple interviews. And SPARCIN tracks that for you.&lt;/li&gt;&lt;li&gt;Tracking interview questions along with how candidates answer those questions will give you insight into the questions you are asking.  For example, what questions stump everyone?  What questions does everyone answer correctly?&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;How does SPARCIN make money?&lt;/b&gt;&lt;ul&gt;&lt;li&gt;After using SPARCIN for free and learning how it benefits your company, you will want to upgrade to either Standard or Enterprise and take advantage of all SPARCIN has to offer.&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;We already have an application tracking system&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Applicant tracking systems don?t actually support your interviewers.&lt;/li&gt;&lt;li&gt;SPARCIN has pre-built integrations with several applicant tracking systems.&lt;/li&gt;&lt;li&gt;SPARCIN has an API - use it to easily share information with your ATS.&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;I am worried about EEOC compliance&lt;/b&gt;&lt;ul&gt;&lt;li&gt;SPARCIN is significantly better than your current solution (whatever that is)&lt;/li&gt;&lt;li&gt;SPARCIN flags key words and phrases in interview questions for review.&lt;/li&gt;&lt;li&gt;All SPARCIN reviewers have completed our EEOC course.&lt;/li&gt;&lt;li&gt;Guidelines are provided for entering new questions and anyone can flag an interview question for review.&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-04 21:55:43</Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-07 19:36:19</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">77ff32e9-0697-44c8-ab4a-cc80e2aef9ef</Data></Cell>
+			<Cell><Data ss:Type="String">SPARCIQ</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">What if you had such a deep understanding of your data that you could accurately predict users, markets, opportunities and sales?  How would that impact your business?  &lt;ul&gt;&lt;li&gt;SPARCIQ gives you the insight you need to take advantage of everything your data can offer.&lt;/li&gt;&lt;li&gt;SPARCIQ is a real-time analytics engine that evaluates massive amounts of data without a time consuming (extract, transform &amp; load) ETL process or even your IT resources.&lt;/li&gt;&lt;li&gt;SPARCIQ takes your data from any application and marries it with external data, giving you unparalleled and virtually limitless insight into how external influencers impact your business.&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;SPARCIQ collects and analyzes data in real-time, with no costly and cumbersome ETL process and without the need for internal IT services.&lt;/li&gt;&lt;li&gt;SPARCIQ leverages your real-time and historical data to forecast what&#39;s to come, giving you the ability to make assumptions about what the future looks like for your business.&lt;/li&gt;&lt;li&gt;SPARCIQ&#39;s semantic capabilities offer deeper insight into the meaning behind your data, from understanding sentiment and centrality in your social data to classifying and identifying similarities.&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">Pricing is based on a per engagement and need basis.</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;You need insight into your critical data now, why wait for a time-consuming ETL process?&lt;/li&gt;&lt;li&gt;See how a deeper understanding of what drives your data can improve your business.&lt;/li&gt;&lt;li&gt;Visit us at www.sparciq.com to see what we can do for your data&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;100% Cloud Deployed and RESTful Web Service consumable&lt;/li&gt;&lt;li&gt;As much data as you have, Capacity Scalable and Highly Available&lt;/li&gt;&lt;li&gt; utilizing Multi-Domain and Multi-tenant supported&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;I&#39;m already collecting my data and running some basic analytics, isn?t that enough?: SPARCIQ can get even more value out of your data.  We offer customizable analytics that give you a deeper understanding of the factors that drive your business.&lt;/li&gt;&lt;li&gt;Why can&#39;t I use an out-of-the-box analytics product? The analytics capabilities of out-of-the-box solutions are limited.  SPARCIQ is fully customizable and has the architecture to provide real-time reporting for your big data.&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-15 13:16:06</Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-15 20:14:53</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">e052a386-9f5b-4ced-a2bb-70d4d4376fdb</Data></Cell>
+			<Cell><Data ss:Type="String">SPARC 520</Data></Cell>
+			<Cell><Data ss:Type="String">To help our customers understand their energy usage,  identify the savings opportunities and how to take action.</Data></Cell>
+			<Cell><Data ss:Type="String">520 explanation &amp; score What if you had the power to monitor your energy use in real time and customize a energy saving strategies? How would that impact your business? SPARC520 is an intelligent energy analysis application that empowers decision makers to reduce energy consumption and cut costs.  SPARC520 includes real-time energy monitoring and energy forecasting tools, allowing you to visualize and forecast your savings potential.  With clear data visualization, dynamic saving scenarios, and powerful strategy implementation tools, SPARC520 offers you the expertise and resources you need to guide your successful energy management strategy.</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;&#39;No Touch&#39; Rapid Portfolio Assessment helps you visualize your current energy consumption and identifies opportunities to save.&lt;/li&gt;&lt;li&gt;Plan, track and manipulate your custom energy saving scenarios using real-time data and get the foresight needed to make the best energy decisions.&lt;/li&gt;&lt;li&gt;Employee Engagement tools allow your team to visualize their own energy consumption, identify opportunities to make a positive impact, and rally teammates to join the movement.&lt;/li&gt;&lt;ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">Varies.  15K per building for rapid portfolio assessment(RPA)</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;Get started now with a &#39;No Touch&#39; Rapid Portfolio Assessment to uncover ways to save.&lt;/li&gt;&lt;li&gt;Empower yourself with the tools to make the best energy decisions&lt;/li&gt;&lt;li&gt;Let our energy experts help you save money and go greenVisit www.5twenty.com for more details.&lt;/li&gt;&lt;ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;Commercial Buildings account for 41% of energy consumption in the US&lt;/li&gt;&lt;li&gt;With oil prices consistently over $100 per barrel it is more important than ever to be smart about energy consumption&lt;/li&gt;&lt;ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;We already have our employees turn off their monitors and lights, we know how to save energy: That&#39;s a great start.  But what if you could dynamically forecast evening more savings strategies and calculate your savings potential?  With SPARC520 you can plan even more cost saving strategies, like upgrading your HVAC or virtualizing your servers, and monitor the impact of those strategies in real-time.&lt;/li&gt;&lt;li&gt;My building is already LEED certified: Why not make sure that initial investment is still paying off?  LEED certification only ensures your building was built to meet energy efficiency standards, but says nothing of whether it&#39;s actually operating efficiently. With SPARC520 you&#39;ll have a direct pulse on your building&#39;s performance, identifying opportunities to increase efficiency, and ensure that your investment in a LEED certified buildings  continues to pay off&lt;/li&gt;&lt;li&gt;I&#39;ve had an energy audit before, I spent a lot of money and got nothing out of it: That&#39;s one of the biggest issues with conventional energy audits, there&#39;s no actionable data, it comes with a big price tag but no guidance to move forward.  SPARC520 takes a different approach to energy audits.  We start with a virtual audit to visualize your current energy performance, this allows us to develop the most cost-effective strategy to move forward with your building portfolio.  From there we enable real-time energy monitoring and work with you to create an actionable plan to reduce energy consumption.&lt;/li&gt;&lt;li&gt;We cannot commit to installing monitoring equipment on all of our buildings:  With our Rapid Portfolio Assessment, we can help you identify the buildings that would benefit most from monitoring equipment.&lt;/li&gt;&lt;ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-15 12:20:05</Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-15 12:45:46</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">e734c938-9c92-468a-a354-154128c79859</Data></Cell>
+			<Cell><Data ss:Type="String">SPARCET</Data></Cell>
+			<Cell><Data ss:Type="String">To remove the barriers of recognition.</Data></Cell>
+			<Cell><Data ss:Type="String">According to the U.S. Bureau of labor Statistics, the number one reason people leave their jobs is that they &quot;don&#39;t feel appreciated and recognized&quot;. SPARCET is a new way of showing appreciation and recognition, through a web and mobile app. SPARCET is a multiplier of the good things already happening at your organization. It allows you to accelerate the adoption of culture and build an engaged workforce. And it?s absolutely free for life.</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ol&gt;&lt;li&gt;Helps organizations ignite a culture of recognition and engagement.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;Exposes all of the great things happening at your organization that most employees would never know about.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;First step towards creating and maintaining an engaged workforce is recognition&lt;/li&gt;&lt;br/&gt;&lt;li&gt;And all of the above at no cost!&lt;/li&gt;&lt;/ol&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">SPARCET is free... for life. There is no catch. We believe there should be no barriers to recognition and improving organization’s cultures.</Data></Cell>
+			<Cell><Data ss:Type="String">Kill the employee of the month mentality and recognize ALL employees.  Come visit SPARC for a tour and see what an engaged workforce looks like. Go to www.sparcet.com and sign-up... no need to get IT involved and it can started at any level  </Data></Cell>
+			<Cell><Data ss:Type="String">Studies show that high performers need recognition 1 in 7 days with 50% of that coming for their direct manager.  As high as 80% of U.S. workers are not engaged, engaged workers can be the key to improved HR metrics company-wide.</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ol&gt;&lt;li&gt;How will you make money: After seeing the benefits of recognition, our EEP will cost $4.00/PEPM.  It&#39;s a full platform made up of apps to engage your whole workforce.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;  Email vs SPARCET... email is 1 to 1 and has no multiplier, no reports and can&#39;t be measured.&lt;/li&gt;&lt;br/&gt;&lt;li&gt; We already have an employee of the month award...  EoM is never enough.  What about everyone else?  Recognizing one person does not create energy company wide much less help engage your workforce.&lt;/li&gt;&lt;br/&gt;&lt;li&gt; We currently have an incentive based recognition program...incentive based programs do not really incorporate all of the good things happening at your organization.  IBPs can also potentially be gamed.&lt;/li&gt;&lt;/ol&gt;</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-13 14:10:44</Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-14 18:48:04</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">e8a7afab-bffa-4326-9883-d6148cc10f59</Data></Cell>
+			<Cell><Data ss:Type="String">Knappsack</Data></Cell>
+			<Cell><Data ss:Type="String">Provide an Application Management Platform that removes the pain of the distribution of apps.</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;Organizations need an way to remove the pain of the distribution of apps&lt;/li&gt;&lt;li&gt;Knappsack is an easy to use service that allows you to get apps to your mobile devices, tablets and desktops&lt;/li&gt;&lt;li&gt;Its quick, easy and secure and can be used during development and once the app moves to production&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;Private repository/app store for developers and enterprises&lt;/li&gt;&lt;li&gt;Supports all mobile platforms including iOS/Android/BlackBerry... and even things like Chrome extensions&lt;/li&gt;&lt;li&gt;Free entry level version with support for 2 apps, for larger organizations there are several offerings to meet your organization’s needs&lt;/li&gt;&lt;li&gt;Also available as an open source product @GitHub&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;Knappsack is completely free for small organizations.  For larger organizations there are several offerings to meet your organization&#39;s needs.&lt;/li&gt;&lt;li&gt;A free open source version is also available for you to customize to your needs.&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;Sign up for a free account at knappsack.com&lt;/li&gt;&lt;li&gt;Look at the source code for Knappsack @ GitHub – its open source!&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;Publishing an app to a public app store can take a long time, but only 1 minute in Knappsack&lt;/li&gt;&lt;li&gt;In 2012, users downloaded apps from 70 different app stores, most not multi-platform&lt;/li&gt;&lt;li&gt;Most app stores only support one mobile device type.  Knappsack supports many + desktops.&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String">&lt;ul&gt;&lt;li&gt;My org doesn&#39;t fit exactly into any of your tiered offerings.   We can easily customize a plan for any organization&#39;s needs.&lt;/li&gt;&lt;li&gt;My org needs to keep everything in our own infrastructure.   We have an enterprise solution available as well as an open-source offering&lt;/li&gt;&lt;li&gt;Your offering is lacking a feature which is critical to our organization.  General-purpose features can be built into the app for an additional cost.&lt;/li&gt;&lt;/ul&gt;</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-15 12:51:14</Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-15 13:12:31</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
